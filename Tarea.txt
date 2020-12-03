@@ -1,0 +1,25 @@
+4. Crear un sitio web completo aplicando el framework  (Bootstrap), así mismo, se deben implementar mínimo dos efectos de  Materialize con la librería Jquery.
+
+5. Este portal tendrá como enfoque temático la Psicología, por lo cual se espera que se trabaje los conceptos como los tipos de enfermedades mentales. 
+
+6. En relación con las características de navegabilidad, por favor, tengan en cuenta las siguientes indicaciones: 
+
+La página de inicio presentará información básica, clara y concisa sobre qué es la Psicología. 
+
+El menú debe estar ubicado en la parte superior de la página, además, deben tener una opción para  ir a otra página con el nombre Enfermedades,  la cual mostrará los distintos tipos de enfermedades mentales.  
+
+Debe contener elementos multimedia como imágenes y vídeos, un slider en la pagina principal despues del menú, y el resto del contenido puede ser complementado con la información que les resulte más interesante, pero que esté relacionada con Psicología. Por último, se debe incluir un footer con información del creador de la página, las redes sociales asociadas y un formulario.        
+
+7. El sitio web debe ser Responsive por medio de Bootstrap y, finalmente, es necesario agregar dos eventos aplicados de Materialize en algún elemento del sitio.  
+
+8. Al finalizar, tenga en cuenta que los nombres de cada uno de estos archivos deben ser estos: 
+
+index.html (lo crea el estudiante para la página principal).
+
+estilo.css (lo crea el estudiante para los estilos de la página principal, si requieren utilizar estilos personalizados aparte de los que contiene Bootstrap).  
+
+enfermedades.html (lo crea el estudiante para la página de Enfermedades mentales).
+
+mentalstyle.css (lo crea el estudiante para los estilos de la página de Enfermedades mentales).
+
+9. Revisar la retroalimentación realizada por parte del tutor.

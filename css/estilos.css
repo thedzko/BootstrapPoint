@@ -1,0 +1,61 @@
+body{
+    background-color: #eeeeee;
+}
+
+/* Navegacion */
+.navbar{
+    background-color: #f8f8ff;
+}
+
+.imagen1{
+    width: 80px;
+}
+
+/* Carrusel */
+.rooller{
+    border-bottom: #29a9e0 solid 4px;
+    filter: brightness(65%);
+    background-color: #29a9e0;
+    background-blend-mode: difference;
+}
+
+/* Textos */
+/* Titulo */
+h1{
+    font-size: 84px;
+}
+
+/* Espacios a los lados */
+.alrededor{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.alrededor1{
+    padding-right: 600px;
+    padding-left: 600px;
+}
+
+.titulo-carril{
+    font-size: 140px;
+}
+
+.imagenes-de-textos{
+    width: 175px;
+}
+
+/* Formulario */
+.main-form{
+    width: 500px;
+    margin: auto;
+}
+
+/* Footer */
+footer{
+    background-color: #333333;
+    padding: 30px;
+}
+
+.copyright{
+    padding-top: 10px;
+}
